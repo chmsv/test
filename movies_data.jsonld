@@ -1,0 +1,3660 @@
+{
+    "@context": {
+        "name": "http://schema.org/name",
+        "originalName": "http://schema.org/alternateName",
+        "image": "http://schema.org/image",
+        "setCountry": "http://schema.org/locationCreated",
+        "theme": "http://schema.org/about",
+        "year": "http://schema.org/dateCreated",
+        "url": "http://schema.org/url",
+        "country": "http://schema.org/countryOfOrigin",
+        "director": "http://schema.org/director",
+        "period": "http://schema.org/temporalCoverage",
+        "genre": "http://schema.org/genre",
+        "tags": "http://schema.org/keywords",
+        "lateTitle": {
+            "@id": "http://schema.org/additionalProperty",
+            "@type": "@id"
+        },
+        "colored": {
+            "@id": "http://schema.org/color",
+            "@type": "@id"
+        },
+        "sound": {
+            "@id": "http://schema.org/sound",
+            "@type": "@id"
+        },
+        "comment": "http://schema.org/comment"
+    },
+    "@type": "ItemList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Movie",
+                "name": "The Hunchback of Notre Dame",
+                "originalName": "Notre-Dame de Paris",
+                "image": "https://www.dropbox.com/scl/fi/lcpywsc3peujomps3pzk2/1911_Lady-Godiva.png?rlkey=7dp2l29gsoxa9i4820td17rlj&raw=1",
+                "setCountry": [],
+                "theme": "The Hunchback of Notre Dame",
+                "year": 1911,
+                "url": "https://boxd.it/8Nx4",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Albert Capellani"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Victor Hugo",
+                    "Drama",
+                    "Literature",
+                    "Romance"
+                ],
+                "lateTitle": "Yes",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Movie",
+                "name": "The Hunchback of Notre Dame",
+                "originalName": "The Hunchback of Notre Dame",
+                "image": "https://www.dropbox.com/scl/fi/ns6ev6n2t5o7dnogwvrxd/1923_Wilhelm-Tell.png?rlkey=yvef8x1nsdz1vw012ponvc75n&raw=1",
+                "setCountry": [],
+                "theme": "The Hunchback of Notre Dame",
+                "year": 1923,
+                "url": "https://boxd.it/1FVo",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Wallace Worsley"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Victor Hugo",
+                    "Horror",
+                    "Drama",
+                    "Literature",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "Movie",
+                "name": "The Hunchback of Notre Dame",
+                "originalName": "The Hunchback of Notre Dame",
+                "image": "https://www.dropbox.com/scl/fi/s08eurz4k0m60oxz6kzqu/1939_The-Hunchback-of-Notre-Dame.png?rlkey=28ln8uye3e7lnj6065cp34zkn&raw=1",
+                "setCountry": [],
+                "theme": "The Hunchback of Notre Dame",
+                "year": 1939,
+                "url": "https://boxd.it/1ixo",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "William Dieterle"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Victor Hugo",
+                    "Horror",
+                    "Drama",
+                    "Literature",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "Movie",
+                "name": "Bluebeard",
+                "originalName": "Barbe-bleue",
+                "image": "https://www.dropbox.com/scl/fi/mxeutshxgh2ssboqftos6/1901_Bluebeard.png?rlkey=y5cp56obn7o9tu8h1k9k43lst&raw=1",
+                "setCountry": [],
+                "theme": "Bluebeard",
+                "year": 1901,
+                "url": "https://boxd.it/Gs6",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Georges Méliès"
+                ],
+                "period": "undefined",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Charles Perrault",
+                    "Fairy tale",
+                    "Horror",
+                    "Fantasy",
+                    "Drama",
+                    "Literature"
+                ],
+                "lateTitle": "Yes",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@type": "Movie",
+                "name": "Bluebeard",
+                "originalName": "Barbe-Bleue",
+                "image": "https://www.dropbox.com/scl/fi/i96qvr442sx7f4cnhv9bc/1951_Dawn-of-America.png?rlkey=684gcxsuwvrc17xr3e2y6rf7a&raw=1",
+                "setCountry": [],
+                "theme": "Bluebeard",
+                "year": 1951,
+                "url": "https://boxd.it/afzu",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Christian-Jaque"
+                ],
+                "period": "undefined",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "CharlesPerrault",
+                    "Fairy tale",
+                    "Horror",
+                    "Fantasy",
+                    "Drama",
+                    "Comedy",
+                    "Literature"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@type": "Movie",
+                "name": "The Treasures of Satan",
+                "originalName": "Les trésors de satan",
+                "image": "https://www.dropbox.com/scl/fi/sfhauzzt1jtszxezexxb7/1902_The-Treasures-of-Satan.png?rlkey=62x9gi8tivsarm3dfbr1x6oi5&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1902,
+                "url": "https://boxd.it/3EUI",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Georges Méliès"
+                ],
+                "period": "undefined",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Horror",
+                    "Fantasy",
+                    "Religious"
+                ],
+                "lateTitle": "Yes",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@type": "Movie",
+                "name": "The Witch",
+                "originalName": "La Fée Carabosse ou le poignard fatal",
+                "image": "https://www.dropbox.com/scl/fi/pamwnb3v5tk6zymqa8ecu/1906_The-Witch.png?rlkey=9sugqxcuophaxijp7fiz8rj91&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1906,
+                "url": "https://boxd.it/5UVc",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Georges Méliès"
+                ],
+                "period": "undefined",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Fantasy",
+                    "Family",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@type": "Movie",
+                "name": "Lady Godiva",
+                "originalName": "Lady Godiva",
+                "image": "https://www.dropbox.com/scl/fi/gwxc5hmo0l8m2qvsvp6w8/1911_The-Hunchback-of-Notre-Dame.png?rlkey=p7973jl2kidq40vjrzko0n6m4&raw=1",
+                "setCountry": [],
+                "theme": "Lady Godiva",
+                "year": 1911,
+                "url": "https://boxd.it/6Anm",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Charles Kent"
+                ],
+                "period": "11th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Alfred Lord Tennyson",
+                    "Drama",
+                    "Literature"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@type": "Movie",
+                "name": "The Life and Death of King Richard III",
+                "originalName": "The Life and Death of King Richard III",
+                "image": "https://www.dropbox.com/scl/fi/efovglhzfwrg4mb5gjpwe/1912_The-Life-and-Death-of-King-Richard-III.png?rlkey=kbr5aqunfha84kddcf0nxch61&raw=1",
+                "setCountry": [],
+                "theme": "King Richard III (W. Shakespeare)",
+                "year": 1912,
+                "url": "https://boxd.it/Mp8",
+                "country": [
+                    "France",
+                    "USA"
+                ],
+                "director": [
+                    "André Calmettes",
+                    "James Keane"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "William Shakespeare",
+                    "Richard III",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@type": "Movie",
+                "name": "The Miracle",
+                "originalName": "The Miracle",
+                "image": "https://www.dropbox.com/scl/fi/rgwvlfxuxjx0lm379ghd1/1912_The-Miracle.png?rlkey=xow5oas8as2tqmr8600aucw8n&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1912,
+                "url": "https://boxd.it/5Qkm",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "Michel Carré"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Karl Vollmoeller",
+                    "Drama",
+                    "Literature",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@type": "Movie",
+                "name": "Hamlet",
+                "originalName": "Amleto",
+                "image": "https://www.dropbox.com/scl/fi/37638yp7yu3zbryziphwc/1917_Hamlet.png?rlkey=n0plx9jtjmqczyy2tuqvydvh9&raw=1",
+                "setCountry": [],
+                "theme": "Hamlet",
+                "year": 1917,
+                "url": "https://boxd.it/8lCK",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Eleuterio Rodolfi"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "William Shakespeare",
+                    "Drama",
+                    "Family",
+                    "Literature",
+                    "Adventure",
+                    "Crime"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@type": "Movie",
+                "name": "Jerusalem Liberated",
+                "originalName": "La Gerusalemme liberata",
+                "image": "https://www.dropbox.com/scl/fi/cale76l3pz3p77p8jesfq/1918_Jerusalem-Liberated.png?rlkey=nah01419cqd7jbe4qnfzab5na&raw=1",
+                "setCountry": [],
+                "theme": "Jerusalem Liberated (T. Tasso)",
+                "year": 1918,
+                "url": "https://boxd.it/jjlu",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Enrico Guazzoni"
+                ],
+                "period": "11th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Torquato Tasso",
+                    "Literature",
+                    "Religious",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@type": "Movie",
+                "name": "Wilhelm Tell",
+                "originalName": "Wilhelm Tell",
+                "image": "https://www.dropbox.com/scl/fi/kt41ad0blkr1cs90xf97l/1923_The-Hunchback-of-Notre-Dame.png?rlkey=09zj8tg9b2iokibzf269u688k&raw=1",
+                "setCountry": [],
+                "theme": "Wilhelm Tell",
+                "year": 1923,
+                "url": "https://boxd.it/5oNA",
+                "country": [
+                    "Germany"
+                ],
+                "director": [
+                    "Rudolf Walther-Fein",
+                    "Rudolf Dworsky"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Drama",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@type": "Movie",
+                "name": "Miracle of the Wolves",
+                "originalName": "Le Miracle des loups",
+                "image": "https://www.dropbox.com/scl/fi/rq5s5v9b2r71odpv2o8by/1924_Miracle-of-the-Wolves.png?rlkey=6b18o8ymlgp47lbjpx12lp3n0&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1924,
+                "url": "https://boxd.it/4cn4",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Raymond Bernard"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Henry Dupuis-Mazuel ",
+                    "Louis XI ",
+                    "Drama",
+                    "Literature",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@type": "Movie",
+                "name": "The Nibelungs: Siegfried",
+                "originalName": "Die Nibelungen: Siegfried",
+                "image": "https://www.dropbox.com/scl/fi/84nmvple7p358d8gmg9op/1924_The-Nibelungs-Kriemhild-s-Revenge.png?rlkey=zu2n5ybg4x4eybkvkaey1kno3&raw=1",
+                "setCountry": [],
+                "theme": "The Nibelungs",
+                "year": 1924,
+                "url": "https://boxd.it/1iWS",
+                "country": [
+                    "Germany"
+                ],
+                "director": [
+                    "Fritz Lang"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Epic",
+                    "Fantasy",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@type": "Movie",
+                "name": "The Nibelungs: Kriemhild's Revenge",
+                "originalName": "Die Nibelungen: Kriemhilds Rache",
+                "image": "https://www.dropbox.com/scl/fi/dzwj6qn1pcgexpplg0oo4/1924_The-Nibelungs-Siegfried.png?rlkey=7d2sklp06c3k24yjfeemsdl17&raw=1",
+                "setCountry": [],
+                "theme": "The Nibelungs",
+                "year": 1924,
+                "url": "https://boxd.it/WIu",
+                "country": [
+                    "Germany"
+                ],
+                "director": [
+                    "Fritz Lang"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Epic",
+                    "Fantasy",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@type": "Movie",
+                "name": "The Devil in the City",
+                "originalName": "Le Diable dans la ville",
+                "image": "https://www.dropbox.com/scl/fi/hhdtyi88dx1ejm9x0aipi/1925_The-Devil-in-the-City.png?rlkey=gdzo5q71f9jkgoavwa0eqfxsq&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1925,
+                "url": "https://boxd.it/8HUm",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Germaine Dulac"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Fantasy",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@type": "Movie",
+                "name": "The Beloved Rogue",
+                "originalName": "The Beloved Rogue",
+                "image": "https://www.dropbox.com/scl/fi/itra5s2ecxagqq2nc6dcd/1927_The-Beloved-Rogue.png?rlkey=fb3zf27zgzptb2f4yli7wyhxn&raw=1",
+                "setCountry": [],
+                "theme": "If I Were King (J. H. McCarthy)",
+                "year": 1927,
+                "url": "https://boxd.it/4016",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Alan Crosland"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Justin Huntly McCarthy",
+                    "François Villon",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@type": "Movie",
+                "name": "Saint Joan the Maid",
+                "originalName": "La Merveilleuse Vie de Jeanne d'Arc",
+                "image": "https://www.dropbox.com/scl/fi/imsqjgoa9swfs9n6l0ljq/1929_Saint-Joan-the-Maid.png?rlkey=ha904jsfzh26hjas5f9an6dsz&raw=1",
+                "setCountry": [],
+                "theme": "Joan of Arc",
+                "year": 1929,
+                "url": "https://boxd.it/5KnE",
+                "country": [
+                    "France",
+                    "Germany"
+                ],
+                "director": [
+                    "Marco de Gastyne"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Biography",
+                    "Drama",
+                    "Religious",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "Tint",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@type": "Movie",
+                "name": "Anthony of Padua,The Saint of Miracles",
+                "originalName": "Antonio di Padova,Il santo dei miracoli",
+                "image": "https://www.dropbox.com/scl/fi/v752z50e1bhz82rbx38ah/1931_Anthony-of-Padua-The-Saint-of-Miracles.png?rlkey=eplrpkvdyk022w3kf3dvhdrhe&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1931,
+                "url": "https://boxd.it/aGPO",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Giulio Antamoro"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Biography",
+                    "Drama",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "No",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@type": "Movie",
+                "name": "Wilhelm Tell",
+                "originalName": "Wilhelm Tell",
+                "image": "https://www.dropbox.com/scl/fi/6w4byu7v2c4zv4doh7vlo/1934_Wilhelm-Tell.png?rlkey=kac1wy6qqfsfhlgnk56uzujen&raw=1",
+                "setCountry": [],
+                "theme": "Wilhelm Tell",
+                "year": 1934,
+                "url": "https://boxd.it/94kQ",
+                "country": [
+                    "Germany"
+                ],
+                "director": [
+                    "Heinz Paul"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Drama",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@type": "Movie",
+                "name": "Adémaï in the Middle Ages",
+                "originalName": "Adémaï au Moyen Âge",
+                "image": "https://www.dropbox.com/scl/fi/r76hqrlrdgfa30fc7ibry/1935_Ad-ma-in-the-Middle-Ages.png?rlkey=85dmmeh3g184mvf6ooaovllun&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1935,
+                "url": "https://boxd.it/fUmG",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Jean de Marguenat"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Comedy",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@type": "Movie",
+                "name": "If I Were King",
+                "originalName": "If I Were King",
+                "image": "https://www.dropbox.com/scl/fi/2i36foqxqog7ov3v26cyf/1938_If-I-Were-King.png?rlkey=h3o72bfv12iukzlnrz7ajart2&raw=1",
+                "setCountry": [],
+                "theme": "If I Were King (J. H. McCarthy)",
+                "year": 1938,
+                "url": "https://boxd.it/49BC",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Frank Lloyd"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Justin Huntly McCarthy",
+                    "François Villon",
+                    "Louis XI ",
+                    "Biography"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@type": "Movie",
+                "name": "The Adventures of Robin Hood",
+                "originalName": "The Adventures of Robin Hood",
+                "image": "https://www.dropbox.com/scl/fi/fzvrzzp3bulbyd1umsaxr/1938_The-Adventures-of-Marco-Polo.png?rlkey=j7te0sp9czbuxuduf8q46oc23&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1938,
+                "url": "https://boxd.it/1V6G",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Michael Curtiz",
+                    "William Keighley"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Robin Hood",
+                    "Richard I",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title on parchment"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@type": "Movie",
+                "name": "The Adventures of Marco Polo",
+                "originalName": "The Adventures of Marco Polo",
+                "image": "https://www.dropbox.com/scl/fi/5bzxt6bi1qr0qapvbsoq6/1938_The-Adventures-of-Robin-Hood.png?rlkey=uijl3omp83ntasqw65iejdn3j&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1938,
+                "url": "https://boxd.it/3XW4",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Archie Mayo"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Marco Polo",
+                    "Biography",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book/scroll"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 26,
+            "item": {
+                "@type": "Movie",
+                "name": "The Iron Crown",
+                "originalName": "La corona di ferro",
+                "image": "https://www.dropbox.com/scl/fi/dq58sjopg2hy9brylj8mb/1941_The-Iron-Crown.png?rlkey=t02bceny8kh9wyey3dg7jbr27&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1941,
+                "url": "https://boxd.it/2egK",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Alessandro Blasetti"
+                ],
+                "period": "undefined",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Fantasy",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 27,
+            "item": {
+                "@type": "Movie",
+                "name": "The Gorgon",
+                "originalName": "La Gorgona",
+                "image": "https://www.dropbox.com/scl/fi/rom7bd5f4ipi11ns8azfo/1942_The-Devil-s-Envoys.png?rlkey=81lpfuigprsl05028dk4dtzs7&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1942,
+                "url": "https://boxd.it/sQks",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Guido Brignone"
+                ],
+                "period": "11th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Sem Benelli",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 28,
+            "item": {
+                "@type": "Movie",
+                "name": "The Devil's Envoys",
+                "originalName": "Les Visiteurs du soir",
+                "image": "https://www.dropbox.com/scl/fi/69k2s0m5a64vo8rn11agi/1942_The-Gorgon.png?rlkey=xd5n20yd4db19sqlymjbfnykb&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1942,
+                "url": "https://boxd.it/QAa",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Marcel Carné"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Fantasy",
+                    "Drama",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 29,
+            "item": {
+                "@type": "Movie",
+                "name": "Henry V",
+                "originalName": "Henry V",
+                "image": "https://www.dropbox.com/scl/fi/gzioqpe88yqu8eyee1zfr/1944_Henry-V.png?rlkey=5hkrcny73ix7d5j1xjedz7swg&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1944,
+                "url": "https://boxd.it/1Agq",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "Laurence Olivier"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "William Shakespeare",
+                    "Henry V",
+                    "Biography",
+                    "Drama",
+                    "Literature",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title on parchment"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 30,
+            "item": {
+                "@type": "Movie",
+                "name": "Inés de Castro",
+                "originalName": "Inés de Castro",
+                "image": "https://www.dropbox.com/scl/fi/4uwkzdonkalt4o0d54yde/1944_In-s-de-Castro.png?rlkey=8kdwifgszsku9i4btpmkpiubz&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1944,
+                "url": "https://boxd.it/ghKG",
+                "country": [
+                    "Spain",
+                    "Portugal"
+                ],
+                "director": [
+                    "José Leitão de Barros",
+                    "Manuel Augusto García Viñolas"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Afonso Lopes Vieira",
+                    "Drama",
+                    "Literature",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title engraved"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 31,
+            "item": {
+                "@type": "Movie",
+                "name": "Kashchey the Immortal",
+                "originalName": "Кащей Бессмертный",
+                "image": "https://www.dropbox.com/scl/fi/ssa3ahfm04shbek7pusvj/1944_Kashchey-the-Immortal.png?rlkey=t0e4r8hphx4yik95xunqrf4gu&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1944,
+                "url": "https://boxd.it/2D6U",
+                "country": [
+                    "USSR"
+                ],
+                "director": [
+                    "Aleksandr Rou"
+                ],
+                "period": "12th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Epic",
+                    "Fantasy",
+                    "Family",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 32,
+            "item": {
+                "@type": "Movie",
+                "name": "The Bandit of Sherwood Forest",
+                "originalName": "The Bandit of Sherwood Forest",
+                "image": "https://www.dropbox.com/scl/fi/33spz2z2dqvoudkjx6kmk/1946_The-Bandit-of-Sherwood-Forest.png?rlkey=l4xcza1bwqjvy1hzavvnfhn14&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1946,
+                "url": "https://boxd.it/3I2K",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Henry Levin",
+                    "George Sherman"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Paul Castleton",
+                    "Family",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 33,
+            "item": {
+                "@type": "Movie",
+                "name": "The Holy Crown",
+                "originalName": "Reina santa",
+                "image": "https://www.dropbox.com/scl/fi/zbz7epw6ylpj4shq5ysym/1947_The-Holy-Crown.png?rlkey=p8ilyfh2hgl3stt3su0d52ntq&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1947,
+                "url": "https://boxd.it/aeSA",
+                "country": [
+                    "Spain",
+                    "Portugal"
+                ],
+                "director": [
+                    "Rafael Gil Henrique Campos Aníbal Contreiras"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Biography",
+                    "Drama",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 34,
+            "item": {
+                "@type": "Movie",
+                "name": "Warriors of Faith",
+                "originalName": "Jan Roháč z Dubé",
+                "image": "https://www.dropbox.com/scl/fi/fq8r4kbjif7ssto0dc0pn/1947_Warriors-of-Faith.png?rlkey=p7sxx0ms4h3ygjmpm704h6t50&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1947,
+                "url": "https://boxd.it/6liQ",
+                "country": [
+                    "Czechoslovakia"
+                ],
+                "director": [
+                    "Vladimír Borský"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Drama",
+                    "Religious",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 35,
+            "item": {
+                "@type": "Movie",
+                "name": "The Prince Of Thieves",
+                "originalName": "The Prince Of Thieves",
+                "image": "https://www.dropbox.com/scl/fi/uuvzhzoeq60acv3bl1oq3/1948_Fiddlers-Three.png?rlkey=d929rnoghmqs9d3is9xvxy5w5&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1948,
+                "url": "https://boxd.it/7E4U",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Howard Bretherton"
+                ],
+                "period": "12th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Alexandre Dumas",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 36,
+            "item": {
+                "@type": "Movie",
+                "name": "The Black Arrow",
+                "originalName": "The Black Arrow",
+                "image": "https://www.dropbox.com/scl/fi/uzs7r3xxyrn002phgbkug/1948_The-Black-Arrow.png?rlkey=xtvaef9xstyxfjdrecmnnbmg5&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1948,
+                "url": "https://boxd.it/8Mn8",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Gordon Douglas"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Robert Louis Stevenson",
+                    "Literature",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 37,
+            "item": {
+                "@type": "Movie",
+                "name": "Fiddlers Three",
+                "originalName": "Fiddlers Three",
+                "image": "https://www.dropbox.com/scl/fi/8ftf436lima1vbmwanaw6/1948_The-Prince-Of-Thieves.png?rlkey=ey40ovbhqayqtv47iff7ifpq6&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1948,
+                "url": "https://boxd.it/3RMW",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Jules White"
+                ],
+                "period": "12th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Comedy"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 38,
+            "item": {
+                "@type": "Movie",
+                "name": "The Wind Is My Lover",
+                "originalName": "Singoalla",
+                "image": "https://www.dropbox.com/scl/fi/42epf3ch5pzu96hbei73w/1949_A-Connecticut-Yankee-in-King-Arthur-s-Court.png?rlkey=bjsbzxvse7fspj75bl0somsvz&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1949,
+                "url": "https://boxd.it/442C",
+                "country": [
+                    "France",
+                    "Sweden"
+                ],
+                "director": [
+                    "Christian-Jaque"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Viktor Rydberg",
+                    "Drama",
+                    "Literature",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 39,
+            "item": {
+                "@type": "Movie",
+                "name": "The Adventures of Sir Galahad",
+                "originalName": "The Adventures of Sir Galahad",
+                "image": "https://www.dropbox.com/scl/fi/z4n5kq5ify1znp4ll2v2l/1949_Christopher-Columbus.png?rlkey=7wqfifz0gz4tz6nvamiqex7xy&raw=1",
+                "setCountry": [],
+                "theme": "Knight of the Round Table",
+                "year": 1949,
+                "url": "https://boxd.it/62fe",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Spencer Gordon Bennet"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "King Arthur",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 40,
+            "item": {
+                "@type": "Movie",
+                "name": "A Connecticut Yankee in King Arthur's Court",
+                "originalName": "A Connecticut Yankee in King Arthur's Court",
+                "image": "https://www.dropbox.com/scl/fi/o7qpmxo7tt18b4f7he57i/1949_Du-Guesclin.png?rlkey=1kxot2zdxk7lj1ol96v00zoaz&raw=1",
+                "setCountry": [],
+                "theme": "Knight of the Round Table",
+                "year": 1949,
+                "url": "https://boxd.it/19Gc",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Tay Garnett"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Mark Twain",
+                    "King Arthur",
+                    "Fantasy",
+                    "Family",
+                    "Comedy",
+                    "Literature",
+                    "Music",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 41,
+            "item": {
+                "@type": "Movie",
+                "name": "Christopher Columbus",
+                "originalName": "Christopher Columbus",
+                "image": "https://www.dropbox.com/scl/fi/cgw0sa6uymhszetv17d2l/1949_Sicilian-Uprising.png?rlkey=mw1ncew09i2metpfrowilx252&raw=1",
+                "setCountry": [],
+                "theme": "Christopher Columbus",
+                "year": 1949,
+                "url": "https://boxd.it/4VMI",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "David MacDonald"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Rafael Sabatini",
+                    "Christopher Columbus",
+                    "Biography",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title on parchment"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 42,
+            "item": {
+                "@type": "Movie",
+                "name": "Sicilian Uprising",
+                "originalName": "Vespro siciliano",
+                "image": "https://www.dropbox.com/scl/fi/tsbx3os2a50ri9ofew8a6/1949_The-Adventures-of-Sir-Galahad.png?rlkey=yl2hn5vqmuj89sxnnjupmlc00&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1949,
+                "url": "https://boxd.it/fY2g",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Giorgio Pàstina"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Giuseppe Verdi",
+                    "Drama",
+                    "Literature"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title on parchment"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 43,
+            "item": {
+                "@type": "Movie",
+                "name": "The Iron Swordsman",
+                "originalName": "Il conte Ugolino",
+                "image": "https://www.dropbox.com/scl/fi/y7s370012w7dnkmy8loy5/1949_The-Iron-Swordsman.png?rlkey=ks56154xi13yz515diy08e5wz&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1949,
+                "url": "https://boxd.it/aHki",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Riccardo Freda"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Dante",
+                    "Ugolino della Gherardesca",
+                    "Biography",
+                    "Drama",
+                    "Literature"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 44,
+            "item": {
+                "@type": "Movie",
+                "name": "Du Guesclin",
+                "originalName": "Du Guesclin",
+                "image": "https://www.dropbox.com/scl/fi/4hzq2ngtylt9c3a6f7kqt/1949_The-Wind-Is-My-Lover.png?rlkey=o3k33bm78l0nakg8p1fc59olb&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1949,
+                "url": "https://boxd.it/c6",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Bernard de Latour"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Roger Vercel",
+                    "Bertrand du Guesclin",
+                    "Biography",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title on parchment"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 45,
+            "item": {
+                "@type": "Movie",
+                "name": "The Black Rose",
+                "originalName": "The Black Rose",
+                "image": "https://www.dropbox.com/scl/fi/sw2dcho2j8xbg7e7cgisz/1950_Legend-of-Love.png?rlkey=qvppmb9a1x6jk33zws52kgf24&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1950,
+                "url": "https://boxd.it/S38",
+                "country": [
+                    "UK",
+                    "USA"
+                ],
+                "director": [
+                    "Henry Hathaway"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Thomas B. Costain",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 46,
+            "item": {
+                "@type": "Movie",
+                "name": "The Flame and the Arrow",
+                "originalName": "The Flame and the Arrow",
+                "image": "https://www.dropbox.com/scl/fi/yq3ydlko1wypplfxpt3yn/1950_Margaret-of-Cortona.png?rlkey=zy9qxchl62jkn0n7tuykwwxtc&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1950,
+                "url": "https://boxd.it/1gWm",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Jacques Tourneur"
+                ],
+                "period": "12th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Drama",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 47,
+            "item": {
+                "@type": "Movie",
+                "name": "Legend of Love",
+                "originalName": "Paolo e Francesca",
+                "image": "https://www.dropbox.com/scl/fi/bxt1cuuqrd5jokedgeqcp/1950_Rogues-Of-Sherwood-Forest.png?rlkey=5switj8amsn9t0r6glmb80e8x&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1950,
+                "url": "https://boxd.it/8P4I",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Raffaello Matarazzo"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Paolo Malatesta",
+                    "Francesca da Polenta",
+                    "Biography",
+                    "Drama",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 48,
+            "item": {
+                "@type": "Movie",
+                "name": "Rogues Of Sherwood Forest",
+                "originalName": "Rogues Of Sherwood Forest",
+                "image": "https://www.dropbox.com/scl/fi/pu4becbaa0gn1uqw3v3va/1950_The-Black-Rose.png?rlkey=e87smxxjyalg40g230n4byb0y&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1950,
+                "url": "https://boxd.it/4uUK",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Gordon Douglas"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Family",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 49,
+            "item": {
+                "@type": "Movie",
+                "name": "Margaret of Cortona",
+                "originalName": "Margherita da Cortona",
+                "image": "https://www.dropbox.com/scl/fi/vpecvchz9r99zlytdat5j/1950_The-Flame-and-the-Arrow.png?rlkey=migiqyng3xrxbs9oflcwkycgn&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1950,
+                "url": "https://boxd.it/735m",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Mario Bonnard"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Margaret of Cortona",
+                    "Biography",
+                    "Drama",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 50,
+            "item": {
+                "@type": "Movie",
+                "name": "Tales of Robin Hood",
+                "originalName": "Tales of Robin Hood",
+                "image": "https://www.dropbox.com/scl/fi/6pprcvrxlk6xi0vvf608r/1951_Bluebeard.png?rlkey=jo0us108wpwidrzt8c2h6ran7&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1951,
+                "url": "https://boxd.it/gsUW",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "James Tinling"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 51,
+            "item": {
+                "@type": "Movie",
+                "name": "The Evil Forest",
+                "originalName": "Parsifal",
+                "image": "https://www.dropbox.com/scl/fi/3rjdh5xiaf365lqx90ij8/1951_Tales-of-Robin-Hood.png?rlkey=4agzcqk7a0pd41xvbssrdo2ry&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1951,
+                "url": "https://boxd.it/60pQ",
+                "country": [
+                    "Spain"
+                ],
+                "director": [
+                    "Daniel Mangrané"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Fantasy",
+                    "Drama",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 52,
+            "item": {
+                "@type": "Movie",
+                "name": "The Cloister of Martins",
+                "originalName": "Die Martinsklause",
+                "image": "https://www.dropbox.com/scl/fi/bl0lelfqhv3gjk06h671x/1951_The-Cloister-of-Martins.png?rlkey=xjgq6c5csik6415i9fy4aafe4&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1951,
+                "url": "https://boxd.it/7XRm",
+                "country": [
+                    "Germany"
+                ],
+                "director": [
+                    "Richard Häussler"
+                ],
+                "period": "undefined",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Ludwig Ganghofer",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 53,
+            "item": {
+                "@type": "Movie",
+                "name": "Dawn of America",
+                "originalName": "Alba de América",
+                "image": "https://www.dropbox.com/scl/fi/iyc5vwmqf9jyxztwcjbdu/1951_The-Evil-Forest.png?rlkey=qedksdke34ub5xgvlkm8eg73q&raw=1",
+                "setCountry": [],
+                "theme": "Christopher Columbus",
+                "year": 1951,
+                "url": "https://boxd.it/51Bc",
+                "country": [
+                    "Spain"
+                ],
+                "director": [
+                    "Juan de Orduña"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Christopher Columbus",
+                    "Biography",
+                    "Drama",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 54,
+            "item": {
+                "@type": "Movie",
+                "name": "Ivanhoe",
+                "originalName": "Ivanhoe",
+                "image": "https://www.dropbox.com/scl/fi/h0ix60njrch6zf4k47rox/1952_Ivanhoe.png?rlkey=ndemhn2jccjjf38hxc0jkdf62&raw=1",
+                "setCountry": [],
+                "theme": "King Richard the Lionheart",
+                "year": 1952,
+                "url": "https://boxd.it/1upG",
+                "country": [
+                    "UK",
+                    "USA"
+                ],
+                "director": [
+                    "Richard Thorpe"
+                ],
+                "period": "12th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Walter Scott",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 55,
+            "item": {
+                "@type": "Movie",
+                "name": "Judgement of God",
+                "originalName": "Le Jugement de Dieu",
+                "image": "https://www.dropbox.com/scl/fi/a6ymr78e0k786i9up0e42/1952_Judgement-of-God.png?rlkey=9vk8g28hoe5vtf2buxp60fcvx&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1952,
+                "url": "https://boxd.it/7UTO",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Raymond Bernard"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Albert III",
+                    "Drama",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 56,
+            "item": {
+                "@type": "Movie",
+                "name": "Wonderful Adventures of Guerrin Meschino",
+                "originalName": "Le meravigliose avventure di Guerrin Meschino",
+                "image": "https://www.dropbox.com/scl/fi/8u7bffxvnidh8nz9k435z/1952_La-Favorita.png?rlkey=t9ocfs27a45dfrqq43k6nfbn7&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1952,
+                "url": "https://boxd.it/nFvO",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Pietro Francisci"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Andrea da Barberino",
+                    "Chivalric romance",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 57,
+            "item": {
+                "@type": "Movie",
+                "name": "La Favorita",
+                "originalName": "La Favorita",
+                "image": "https://www.dropbox.com/scl/fi/9ler1u0n7z32ygwhda9qf/1952_Wonderful-Adventures-of-Guerrin-Meschino.png?rlkey=icmz37843uyyq9fpa766c3mfb&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1952,
+                "url": "https://boxd.it/c3ZE",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Cesare Barlacchi"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Gaetano Donizetti",
+                    "Alfonso XI",
+                    "Literature"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 58,
+            "item": {
+                "@type": "Movie",
+                "name": "The Monastery's Hunter",
+                "originalName": "Der Klosterjäger",
+                "image": "https://www.dropbox.com/scl/fi/pyh481islzv5wx4ev9b1h/1953_Decameron-Nights.png?rlkey=10medcvu94ajtvbitjziozjx6&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1953,
+                "url": "https://boxd.it/7dkQ",
+                "country": [
+                    "Germany"
+                ],
+                "director": [
+                    "Harald Reinl"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Ludwig Ganghofer",
+                    "Literature",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 59,
+            "item": {
+                "@type": "Movie",
+                "name": "Old Czech Legends",
+                "originalName": "Staré pověsti české",
+                "image": "https://www.dropbox.com/scl/fi/6rfvuewss7z85pjp7l64e/1953_Knights-of-the-Round-Table.png?rlkey=sb55gnj2mggrv1bivv5126qij&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1953,
+                "url": "https://boxd.it/7AuE",
+                "country": [
+                    "Czechoslovakia"
+                ],
+                "director": [
+                    "Jiří Trnka"
+                ],
+                "period": "9th",
+                "genre": [
+                    "Animation"
+                ],
+                "tags": [
+                    "Alois Jirásek",
+                    "Fairy tale",
+                    "Fantasy",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 60,
+            "item": {
+                "@type": "Movie",
+                "name": "Knights of the Round Table",
+                "originalName": "Knights of the Round Table",
+                "image": "https://www.dropbox.com/scl/fi/wtnkhfm92jq05g267n92b/1953_Old-Czech-Legends.png?rlkey=f0pqo1gv8otq90mfhwlln64ai&raw=1",
+                "setCountry": [],
+                "theme": "Knights of the Round Table ",
+                "year": 1953,
+                "url": "https://boxd.it/1Eje",
+                "country": [
+                    "UK",
+                    "USA"
+                ],
+                "director": [
+                    "Richard Thorpe"
+                ],
+                "period": "6th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "William Caxton",
+                    "King Arthur",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 61,
+            "item": {
+                "@type": "Movie",
+                "name": "Decameron Nights",
+                "originalName": "Decameron Nights",
+                "image": "https://www.dropbox.com/scl/fi/6b9evomldw35lfk9h9ial/1953_The-Monastery-s-Hunter.png?rlkey=tnefaj7p83tme9lgu07i2nc08&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1953,
+                "url": "https://boxd.it/4tRA",
+                "country": [
+                    "UK",
+                    "Spain"
+                ],
+                "director": [
+                    "Hugo Fregonese"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Boccacio",
+                    "Boccacio",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 62,
+            "item": {
+                "@type": "Movie",
+                "name": "Prince Valiant",
+                "originalName": "Prince Valiant",
+                "image": "https://www.dropbox.com/scl/fi/ors956n31ld8gckosoc4z/1954_Joan-of-Arc-at-the-Stake.png?rlkey=7wrqcngord2zo7ckn0rz9vs6j&raw=1",
+                "setCountry": [],
+                "theme": "Knights of the Round Table ",
+                "year": 1954,
+                "url": "https://boxd.it/2dq",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Henry Hathaway"
+                ],
+                "period": "6th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Hal Foster",
+                    "King Arthur",
+                    "Sunday comics ",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 63,
+            "item": {
+                "@type": "Movie",
+                "name": "The Men of Sherwood Forest",
+                "originalName": "The Men of Sherwood Forest",
+                "image": "https://www.dropbox.com/scl/fi/igrrss2sjauhduxqcs65n/1954_King-Richard-and-the-Crusaders.png?rlkey=7pmmpq42qyhjlk8754ulzfivc&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1954,
+                "url": "https://boxd.it/43Zy",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Val Guest"
+                ],
+                "period": "12th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Richard the Lionheart ",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title on parchment"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 64,
+            "item": {
+                "@type": "Movie",
+                "name": "The Saracen Blade",
+                "originalName": "The Saracen Blade",
+                "image": "https://www.dropbox.com/scl/fi/cnpjgk5serxw7bb0ges2f/1954_Prince-Valiant.png?rlkey=m4ndaxw0jpcy0sagrvi4vgq4u&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1954,
+                "url": "https://boxd.it/cCXe",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "William Castle"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Frank Yerby",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 65,
+            "item": {
+                "@type": "Movie",
+                "name": "Joan of Arc at the Stake",
+                "originalName": "Giovanna d'Arco al rogo",
+                "image": "https://www.dropbox.com/scl/fi/xnlxvp279d8hmzlddfqpy/1954_The-Black-Knight.png?rlkey=g2ypc518ctih2hhgeoygohdg9&raw=1",
+                "setCountry": [],
+                "theme": "Joan of Arc",
+                "year": 1954,
+                "url": "https://boxd.it/4TIE",
+                "country": [
+                    "France",
+                    "Italy"
+                ],
+                "director": [
+                    "Roberto Rossellini"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Paul Claudel",
+                    "Arthur Honegger",
+                    "Joan of Arc",
+                    "Biography",
+                    "Fantasy",
+                    "Literature",
+                    "Religious",
+                    "Music"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 66,
+            "item": {
+                "@type": "Movie",
+                "name": "The Black Shield of Falworth",
+                "originalName": "The Black Shield of Falworth",
+                "image": "https://www.dropbox.com/scl/fi/daffgsjpordk8a5uhkjjh/1954_The-Black-Shield-of-Falworth.png?rlkey=91kcgvdoniob7rxawszb1etxc&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1954,
+                "url": "https://boxd.it/1xEu",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Rudolph Maté"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Howard Pyle",
+                    "Henry IV",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 67,
+            "item": {
+                "@type": "Movie",
+                "name": "King Richard and the Crusaders",
+                "originalName": "King Richard and the Crusaders",
+                "image": "https://www.dropbox.com/scl/fi/vnh72qk9veln9t1s8s5bz/1954_The-Men-of-Sherwood-Forest.png?rlkey=6xfiw5pqe3gwogj4lngivkt9j&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1954,
+                "url": "https://boxd.it/BQC",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "David Butler"
+                ],
+                "period": "12th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Walter Scott",
+                    "Richard the Lionheart ",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 68,
+            "item": {
+                "@type": "Movie",
+                "name": "The Black Knight",
+                "originalName": "The Black Knight",
+                "image": "https://www.dropbox.com/scl/fi/q4gpyodo1bju51szyni8r/1954_The-Saracen-Blade.png?rlkey=mzfm589okew84i1sib5tq785u&raw=1",
+                "setCountry": [],
+                "theme": "Knights of the Round Table ",
+                "year": 1954,
+                "url": "https://boxd.it/1c5o",
+                "country": [
+                    "UK",
+                    "USA"
+                ],
+                "director": [
+                    "Tay Garnett"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "King Arthur",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 69,
+            "item": {
+                "@type": "Movie",
+                "name": "Lady Godiva of Coventry",
+                "originalName": "Lady Godiva of Coventry",
+                "image": "https://www.dropbox.com/scl/fi/1y4oc7az49cyfx8uyqaf6/1955_Jan-Hus.png?rlkey=7z7fk1yiea6j6psglntcxtnla&raw=1",
+                "setCountry": [],
+                "theme": "Lady Godiva",
+                "year": 1955,
+                "url": "https://boxd.it/3NYO",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Arthur Lubin"
+                ],
+                "period": "11th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 70,
+            "item": {
+                "@type": "Movie",
+                "name": "Quentin Durward",
+                "originalName": "Quentin Durward",
+                "image": "https://www.dropbox.com/scl/fi/m6vkh7ywhetunqq0fgwr7/1955_Lady-Godiva-of-Coventry.png?rlkey=9fvbzeg2cllhmrg68od4xi7es&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1955,
+                "url": "https://boxd.it/2D40",
+                "country": [
+                    "UK",
+                    "USA"
+                ],
+                "director": [
+                    "Richard Thorpe"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Walter Scott",
+                    "Louis XI",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 71,
+            "item": {
+                "@type": "Movie",
+                "name": "Tower of Lust",
+                "originalName": "La Tour de Nesle",
+                "image": "https://www.dropbox.com/scl/fi/pyf1uwalpa5or30rx2nya/1955_Quentin-Durward.png?rlkey=x9tly0etyoshw3dughl76it4g&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1955,
+                "url": "https://boxd.it/2MA0",
+                "country": [
+                    "France",
+                    "Italy"
+                ],
+                "director": [
+                    "Abel Gance"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Alexandre Dumas",
+                    "Margaret of Burgundy",
+                    "Louis X",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 72,
+            "item": {
+                "@type": "Movie",
+                "name": "Jan Hus",
+                "originalName": "Jan Hus",
+                "image": "https://www.dropbox.com/scl/fi/e1xkifm4uqqcbczuojcg1/1955_Richard-III.png?rlkey=x7jni634dpyhu4e40m5o1330r&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1955,
+                "url": "https://boxd.it/4Asi",
+                "country": [
+                    "Czechoslovakia"
+                ],
+                "director": [
+                    "Otakar Vávra"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Jan Žižka",
+                    "Jan Hus",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 73,
+            "item": {
+                "@type": "Movie",
+                "name": "The Warrior",
+                "originalName": "The Dark Avenger",
+                "image": "https://www.dropbox.com/scl/fi/udzqivf3k13swjypgzrx5/1955_The-Warrior.png?rlkey=38ekevhyfr6qxoqndi7du0nw6&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1955,
+                "url": "https://boxd.it/2BWE",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "Henry Levin"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "King Edward III",
+                    "Edward of Woodstock",
+                    "Drama",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 74,
+            "item": {
+                "@type": "Movie",
+                "name": "Richard III",
+                "originalName": "Richard III",
+                "image": "https://www.dropbox.com/scl/fi/r75f7o4nq5a3a6dls7eix/1955_Tower-of-Lust.png?rlkey=8dl4rznmmloq897spdxb02oso&raw=1",
+                "setCountry": [],
+                "theme": "King Richard III (W. Shakespeare)",
+                "year": 1955,
+                "url": "https://boxd.it/UMa",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "Laurence Olivier"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "William Shakespeare",
+                    "Edward IV",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 75,
+            "item": {
+                "@type": "Movie",
+                "name": "The Sword and the Dragon",
+                "originalName": "Илья Муромец",
+                "image": "https://www.dropbox.com/scl/fi/k0aaq9py9gzrlh08axwve/1956_Roland-the-Mighty.png?rlkey=yxlih543dwapl53r5lao5y4nx&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1956,
+                "url": "https://boxd.it/3Voa",
+                "country": [
+                    "USSR"
+                ],
+                "director": [
+                    "Aleksandr Ptushko"
+                ],
+                "period": "10th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Ilya Muromets",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title engraved"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 76,
+            "item": {
+                "@type": "Movie",
+                "name": "Roland the Mighty",
+                "originalName": "Orlando e i Paladini di Francia",
+                "image": "https://www.dropbox.com/scl/fi/s0hlkzdtsp7fdzhfhvuyt/1956_The-Sword-and-the-Dragon.png?rlkey=5uphhq25di8jftznc3ncevzuv&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1956,
+                "url": "https://boxd.it/aQgO",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Pietro Francisci"
+                ],
+                "period": "8th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 77,
+            "item": {
+                "@type": "Movie",
+                "name": "I am Catherine",
+                "originalName": "Io,Caterina",
+                "image": "https://www.dropbox.com/scl/fi/o7n46ideazgcuf90b2h4f/1957_I-am-Catherine.png?rlkey=isqpfqtpumjig0gy8ofyl26rv&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1957,
+                "url": "https://boxd.it/q7xW",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Oreste Palella"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Caterina da Siena",
+                    "Drama",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 78,
+            "item": {
+                "@type": "Movie",
+                "name": "Saint Joan",
+                "originalName": "Saint Joan",
+                "image": "https://www.dropbox.com/scl/fi/1y3gl6gbjfgwkk2sg5eva/1957_Saga-of-the-Viking-Women-and-Their-Voyage-to-the-Waters-of-the-Great-Sea-Serpent.png?rlkey=0cbcjh2wk0ghk1lrrb8vshige&raw=1",
+                "setCountry": [],
+                "theme": "Joan of Arc",
+                "year": 1957,
+                "url": "https://boxd.it/3F5Q",
+                "country": [
+                    "UK",
+                    "USA"
+                ],
+                "director": [
+                    "Otto Preminger"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "George Bernard Shaw",
+                    "Charles VII",
+                    "Drama",
+                    "Literature",
+                    "Religious",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 79,
+            "item": {
+                "@type": "Movie",
+                "name": "The Mighty Crusaders",
+                "originalName": "La Gerusalemme liberata",
+                "image": "https://www.dropbox.com/scl/fi/3og4sv6bb4en4tt8jgm3a/1957_Saint-Joan.png?rlkey=h7yubg80187zzpl9erv7dezfp&raw=1",
+                "setCountry": [],
+                "theme": "Jerusalem Liberated (T. Tasso)",
+                "year": 1957,
+                "url": "https://boxd.it/8Mw0",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Carlo Ludovico Bragaglia"
+                ],
+                "period": "11th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Torquato Tasso",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 80,
+            "item": {
+                "@type": "Movie",
+                "name": "The Pied Piper of Hamelin",
+                "originalName": "The Pied Piper of Hamelin",
+                "image": "https://www.dropbox.com/scl/fi/46a28h0u5atlq0uxazpab/1957_The-Mighty-Crusaders.png?rlkey=npzabizu529e3qvzsze4twa2x&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1957,
+                "url": "https://boxd.it/3UM6",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Bretaigne Windust"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Robert Browning",
+                    "Comedy",
+                    "Literature",
+                    "Music",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 81,
+            "item": {
+                "@type": "Movie",
+                "name": "The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent",
+                "originalName": "The Saga of the Viking Women and Their Voyage to the Waters of the Great Sea Serpent",
+                "image": "https://www.dropbox.com/scl/fi/obdx3zlqa9rvmnkzsjrio/1957_The-Pied-Piper-Of-Hamelin.png?rlkey=9ys83t6jyi82tsld02oqisg2d&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1957,
+                "url": "https://boxd.it/32yO",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Roger Corman"
+                ],
+                "period": "10th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Adventure",
+                    "Horror"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 82,
+            "item": {
+                "@type": "Movie",
+                "name": "The Vikings",
+                "originalName": "The Vikings",
+                "image": "https://www.dropbox.com/scl/fi/rquczrt6gw0hdqg4t8l2x/1958_Son-of-Robin-Hood.png?rlkey=dngi0xzlwo7gf6pe2ig722zox&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1958,
+                "url": "https://boxd.it/Wlg",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Richard Fleischer"
+                ],
+                "period": "9th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Edison Marshall",
+                    "Literature",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 83,
+            "item": {
+                "@type": "Movie",
+                "name": "Son of Robin Hood",
+                "originalName": "Son of Robin Hood",
+                "image": "https://www.dropbox.com/scl/fi/67b1tksk8gtxip4pfop77/1958_The-Vikings.png?rlkey=lomb9dbh90yocs9rld6dkgay2&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1958,
+                "url": "https://boxd.it/aMGo",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "George Sherman"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 84,
+            "item": {
+                "@type": "Movie",
+                "name": "The Shepherd from Trutzberg",
+                "originalName": "Der Schäfer vom Trutzberg",
+                "image": "https://www.dropbox.com/scl/fi/xdtuj8v50rmjps0yn2olh/1959_Attack-of-the-Moors.png?rlkey=ke780t747sjfrfzgfxb3hnehy&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1959,
+                "url": "https://boxd.it/9Owy",
+                "country": [
+                    "Germany"
+                ],
+                "director": [
+                    "Eduard von Borsody"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Ludwig Ganghofer",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": "Title in the book"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 85,
+            "item": {
+                "@type": "Movie",
+                "name": "Attack of the Moors",
+                "originalName": "I Reali de Francia",
+                "image": "https://www.dropbox.com/scl/fi/8mcjxfvsleh5k5pdvfkv5/1959_Sleeping-Beauty.png?rlkey=gsnkaajq00mmnorb92hbtkg0o&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1959,
+                "url": "https://boxd.it/7LpK",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Mario Costa"
+                ],
+                "period": "8th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Matter of France",
+                    "Louis VII",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 86,
+            "item": {
+                "@type": "Movie",
+                "name": "Sleeping Beauty",
+                "originalName": "Sleeping Beauty",
+                "image": "https://www.dropbox.com/scl/fi/fouolew1q3gu0rapj6d3m/1959_The-Shepherd-from-Trutzberg.png?rlkey=wjusbnx0cv7zk3om1ck0fp1mu&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1959,
+                "url": "https://boxd.it/1V9A",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Eric Larson",
+                    "Wolfgang Reitherman",
+                    "Clyde Geronimi",
+                    "Les Clark"
+                ],
+                "period": "undefined",
+                "genre": [
+                    "Animation"
+                ],
+                "tags": [
+                    "Charles Perrault",
+                    "Fantasy",
+                    "Family",
+                    "Literature",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 87,
+            "item": {
+                "@type": "Movie",
+                "name": "Fury of the Pagans",
+                "originalName": "La furia dei barbari",
+                "image": "https://www.dropbox.com/scl/fi/ktvjojwielf1qbxbihji3/1960_Fury-of-the-Pagans.png?rlkey=owawe672lh125y6u23pmjrqpc&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1960,
+                "url": "https://boxd.it/6hES",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Guido Malatesta"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 88,
+            "item": {
+                "@type": "Movie",
+                "name": "Sword of Sherwood Forest",
+                "originalName": "Sword of Sherwood Forest",
+                "image": "https://www.dropbox.com/scl/fi/c5okw7l6su01u75fs8fpq/1960_Sword-of-Sherwood-Forest.png?rlkey=697cnqq9vps9el03rhovi5kz1&raw=1",
+                "setCountry": [],
+                "theme": "Robin Hood",
+                "year": 1960,
+                "url": "https://boxd.it/3RwE",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "Terence Fisher"
+                ],
+                "period": "14th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 89,
+            "item": {
+                "@type": "Movie",
+                "name": "Blood on His Sword",
+                "originalName": "Le Miracle des loups",
+                "image": "https://www.dropbox.com/scl/fi/us9skb8xmtt43eix6bw2d/1961_Blood-on-His-Sword.png?rlkey=pvmdhqsgxszz3q3kixafd2msa&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1961,
+                "url": "https://boxd.it/3jny",
+                "country": [
+                    "France",
+                    "Italy"
+                ],
+                "director": [
+                    "André Hunebelle"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Henry Dupuy-Mazuel",
+                    "Louis XI",
+                    "Drama",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 90,
+            "item": {
+                "@type": "Movie",
+                "name": "Francis of Assisi",
+                "originalName": "Francis of Assisi",
+                "image": "https://www.dropbox.com/scl/fi/ebbr4ltx8ukd8iylcnyw0/1961_Francis-of-Assisi.png?rlkey=rmzdxuh545gv2hfkej2n2c9j2&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1961,
+                "url": "https://boxd.it/3nGO",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Michael Curtiz"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Louis de Wohl",
+                    "Francis of Assisi",
+                    "Biography",
+                    "Literature",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 91,
+            "item": {
+                "@type": "Movie",
+                "name": "Charge of the Black Lancers",
+                "originalName": "I lancieri neri",
+                "image": "https://www.dropbox.com/scl/fi/lbx79hstc8868kdt0dbu1/1962_Charge-of-the-Black-Lancers.png?rlkey=kkzwc71pe07j4xyy9uwu9sq6m&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1962,
+                "url": "https://boxd.it/aNPc",
+                "country": [
+                    "France",
+                    "Italy"
+                ],
+                "director": [
+                    "Giacomo Gentilomo"
+                ],
+                "period": "12th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Drama",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 92,
+            "item": {
+                "@type": "Movie",
+                "name": "The Magic Sword",
+                "originalName": "The Magic Sword",
+                "image": "https://www.dropbox.com/scl/fi/f7khyia1ysxc4zfsfq6g0/1962_The-Magic-Sword.png?rlkey=bsli2rxae9nhaxi5mnmli8yzc&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1962,
+                "url": "https://boxd.it/1tt8",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Bert I. Gordon"
+                ],
+                "period": "11th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Saint George",
+                    "Fantasy",
+                    "Family",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 93,
+            "item": {
+                "@type": "Movie",
+                "name": "Tower of London",
+                "originalName": "Tower of London",
+                "image": "https://www.dropbox.com/scl/fi/m9ah0lkjyrcwa92gfzd96/1962_Tower-of-London.png?rlkey=9ovm16w7wvg44b9d4vq1ora8z&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1962,
+                "url": "https://boxd.it/VvO",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Roger Corman"
+                ],
+                "period": "15th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Richard III",
+                    "Horror"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 94,
+            "item": {
+                "@type": "Movie",
+                "name": "Good King Dagobert",
+                "originalName": "Le Bon Roi Dagobert",
+                "image": "https://www.dropbox.com/scl/fi/h7296839xu9d9uy4zmppd/1963_Good-King-Dagobert.png?rlkey=hljti4gr4nxwo25fbbletjjae&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1963,
+                "url": "https://boxd.it/3jn4",
+                "country": [
+                    "France"
+                ],
+                "director": [
+                    "Pierre Chevalier"
+                ],
+                "period": "7th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Comedy"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 95,
+            "item": {
+                "@type": "Movie",
+                "name": "Kaloyan",
+                "originalName": "Калоян",
+                "image": "https://www.dropbox.com/scl/fi/jam0ml8y48i6nvc3vg0y8/1963_Kaloyan.png?rlkey=xoyg91d4k2c68nhyri034ygvr&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1963,
+                "url": "https://boxd.it/7i7M",
+                "country": [
+                    "Bulgaria"
+                ],
+                "director": [
+                    "Dako Dakovski"
+                ],
+                "period": "12th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Tsar Kaloyan",
+                    "Biography",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 96,
+            "item": {
+                "@type": "Movie",
+                "name": "Siege of the Saxons",
+                "originalName": "Siege of the Saxons",
+                "image": "https://www.dropbox.com/scl/fi/wn8p859e8cj5n95heyiiq/1963_Siege-of-the-Saxons.png?rlkey=s7361jpvys4moccgi2kx6simy&raw=1",
+                "setCountry": [],
+                "theme": "Knights of the Round Table ",
+                "year": 1963,
+                "url": "https://boxd.it/2Mx6",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "Nathan H. Juran"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "King Arthur",
+                    "Literature",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 97,
+            "item": {
+                "@type": "Movie",
+                "name": "The Tyrant of Castile",
+                "originalName": "Sfida al re di Castiglia",
+                "image": "https://www.dropbox.com/scl/fi/ct5uqplh7lhxa6h59on56/1963_Sword-of-Lancelot.png?rlkey=lfe0dzbtnva0rfng7wpwkrhop&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1963,
+                "url": "https://boxd.it/4WIM",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Ferdinando Baldi"
+                ],
+                "period": "14th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Peter of Castile",
+                    "Drama",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 98,
+            "item": {
+                "@type": "Movie",
+                "name": "Sword of Lancelot",
+                "originalName": "Lancelot and Guinevere",
+                "image": "https://www.dropbox.com/scl/fi/ug4hf3z3cqhvpwdmcf7ta/1963_The-Castilian.png?rlkey=5ip7ov5q1qqbsv5n2b32hofvq&raw=1",
+                "setCountry": [],
+                "theme": "Knights of the Round Table ",
+                "year": 1963,
+                "url": "https://boxd.it/VYc",
+                "country": [
+                    "UK"
+                ],
+                "director": [
+                    "Cornel Wilde"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "King Arthur",
+                    "Lancelot",
+                    "Fantasy",
+                    "Literature",
+                    "Adventure",
+                    "Romance"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 99,
+            "item": {
+                "@type": "Movie",
+                "name": "The Castilian",
+                "originalName": "El valle de las espadas",
+                "image": "https://www.dropbox.com/scl/fi/5u9y0krboschqhjjr3f9x/1963_The-Sword-in-the-Stone.png?rlkey=2yfby4ea6c7whb3rn4g0yu70r&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1963,
+                "url": "https://boxd.it/4lKw",
+                "country": [
+                    "Spain"
+                ],
+                "director": [
+                    "Javier Setó"
+                ],
+                "period": "10th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Fernán González",
+                    "Biography",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 100,
+            "item": {
+                "@type": "Movie",
+                "name": "The Sword in the Stone",
+                "originalName": "The Sword in the Stone",
+                "image": "https://www.dropbox.com/scl/fi/e7j14kwr10dd88hfncqtx/1963_The-Tyrant-of-Castile.png?rlkey=ckmw9h6ey9hsxe6slz7tuk73e&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1963,
+                "url": "https://boxd.it/1ZdG",
+                "country": [
+                    "USA"
+                ],
+                "director": [
+                    "Wolfgang Reitherman"
+                ],
+                "period": "6th",
+                "genre": [
+                    "Animation"
+                ],
+                "tags": [
+                    "Merlin",
+                    "Fantasy",
+                    "Family"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 101,
+            "item": {
+                "@type": "Movie",
+                "name": "The Revenge of the Crusader",
+                "originalName": "Genoveffa di Brabante",
+                "image": "https://www.dropbox.com/scl/fi/x2ma8uprn9yrhzkoauac0/1964_Becket.png?rlkey=13skqa4ei8gsie6jko0noqqgm&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1964,
+                "url": "https://boxd.it/9m8S",
+                "country": [
+                    "Italy",
+                    "Spain"
+                ],
+                "director": [
+                    "José Luis Monter"
+                ],
+                "period": "13th",
+                "genre": [
+                    "Legend"
+                ],
+                "tags": [
+                    "Siegfried",
+                    "Drama",
+                    "Literature",
+                    "Adventure"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 102,
+            "item": {
+                "@type": "Movie",
+                "name": "Ivaylo",
+                "originalName": "Ивайло",
+                "image": "https://www.dropbox.com/scl/fi/8n3k7ktlxaq1cotfdythu/1964_Hamlet.png?rlkey=eqskfuzejmzwfs5xee3jekshk&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1964,
+                "url": "https://boxd.it/lvSa",
+                "country": [
+                    "Bulgaria"
+                ],
+                "director": [
+                    "Nikola Valchev"
+                ],
+                "period": "13th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Ivaylo",
+                    "Drama",
+                    "Adventure",
+                    "War"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 103,
+            "item": {
+                "@type": "Movie",
+                "name": "The Long Hair of Death",
+                "originalName": "I lunghi capelli della morte",
+                "image": "https://www.dropbox.com/scl/fi/tcj1wjrk7w4mnxrsr2lvn/1964_Isidro-el-Labrador.png?rlkey=6cfxjuz8q36xzaz8p847bpf8w&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1964,
+                "url": "https://boxd.it/2USc",
+                "country": [
+                    "Italy"
+                ],
+                "director": [
+                    "Antonio Margheriti"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "Horror"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 104,
+            "item": {
+                "@type": "Movie",
+                "name": "Hamlet",
+                "originalName": "Гамлет",
+                "image": "https://www.dropbox.com/scl/fi/csyogtmt6be49j53cn6rh/1964_Ivaylo.png?rlkey=guc6bioss1mp7g9hae10v36n8&raw=1",
+                "setCountry": [],
+                "theme": "Hamlet",
+                "year": 1964,
+                "url": "https://boxd.it/2rhQ",
+                "country": [
+                    "USSR"
+                ],
+                "director": [
+                    "Grigori Kozintsev"
+                ],
+                "period": "15th",
+                "genre": [
+                    "Fiction"
+                ],
+                "tags": [
+                    "William Shakespeare",
+                    "Drama",
+                    "Literature"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 105,
+            "item": {
+                "@type": "Movie",
+                "name": "Becket",
+                "originalName": "Becket",
+                "image": "https://www.dropbox.com/scl/fi/rxp5p2g5q7smqobf9d14e/1964_The-Long-Hair-of-Death.png?rlkey=mz0dfs7biqfsf3tz99fib641b&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1964,
+                "url": "https://boxd.it/1MgW",
+                "country": [
+                    "UK",
+                    "USA"
+                ],
+                "director": [
+                    "Peter Glenville"
+                ],
+                "period": "12th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Jean Anouilh ",
+                    "King Henry II",
+                    "Becket",
+                    "Biography",
+                    "Drama",
+                    "Literature"
+                ],
+                "lateTitle": "Original",
+                "colored": "C",
+                "sound": "Yes",
+                "comment": null
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 106,
+            "item": {
+                "@type": "Movie",
+                "name": "Isidore the Laborer",
+                "originalName": "Isidro el labrador",
+                "image": "https://www.dropbox.com/scl/fi/si000su1og2kqf0u2y1qe/1964_The-Revenge-of-the-Crusader.png?rlkey=kqjgxzx3rzcpp5exo5nf43ypz&raw=1",
+                "setCountry": [],
+                "theme": null,
+                "year": 1964,
+                "url": "https://boxd.it/6Z5i",
+                "country": [
+                    "Spain"
+                ],
+                "director": [
+                    "Rafael J. Salvia"
+                ],
+                "period": "11th",
+                "genre": [
+                    "History"
+                ],
+                "tags": [
+                    "Isidore the Laborer",
+                    "Biography",
+                    "Drama",
+                    "Religious"
+                ],
+                "lateTitle": "Original",
+                "colored": "BW",
+                "sound": "Yes",
+                "comment": null
+            }
+        }
+    ]
+}
